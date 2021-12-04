@@ -14,18 +14,22 @@
 > $ ./skript.sh
 > >
 > In welchem Ordner sind alle Abgaben für dieses Blatt gespeichert?
+> 
 > $ /Users/valentincarl/downloads/...
 > 
 > Wo ist die Teilnehmerliste gespeichert?
+> 
 > $ /Users/valentincarl/Desktop/prog1/auto-download/teilnehmer.txt
 > 
 > Für welches Blatt sind die Abgaben?
 > $ ...
 > 
 > Wo sollen die Abgaben gespeichert werden?
+> 
 > $ /Users/valentincarl/Desktop/prog1
 > 
 > ...
+> 
 > done
 
 
@@ -34,6 +38,7 @@
 > Valentin Alexander Carl
 >
 > Hans Jürgen Peter
+> 
 > ...
 
 **wichtig:** Alle Vornamen in die Liste eintragen!
