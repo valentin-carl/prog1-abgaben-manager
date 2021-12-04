@@ -22,6 +22,7 @@
 > $ /Users/valentincarl/Desktop/prog1/auto-download/teilnehmer.txt
 > 
 > Für welches Blatt sind die Abgaben?
+> 
 > $ ...
 > 
 > Wo sollen die Abgaben gespeichert werden?
