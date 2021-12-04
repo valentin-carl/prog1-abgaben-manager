@@ -2,10 +2,10 @@
 
 
 **Alle Abgaben bei ISIS runterladen:**
-(1) Aufgabe *X*
-(2) Zahnrad oben rechts
-(3) *Alle Abgaben herunterladen*
-(4) (optional:) Ordner umbenennen
+- (1) Aufgabe *X*
+- (2) Zahnrad oben rechts
+- (3) *Alle Abgaben herunterladen*
+- (4) (optional:) Ordner umbenennen
 
 
 **How to use:**
